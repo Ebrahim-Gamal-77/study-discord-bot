@@ -2,16 +2,16 @@
 
 ## To Do
 
-[ ]
+- [ ]
 
-[ ]  
+- [ ]  
 
 ### Ebrahim self learning
 
-[ ] Learn python
+- [ ] Learn python
 
-[ ] Learn database
+- [ ] Learn database
 
-[ ] Learn creating discord bot
+- [ ] Learn creating discord bot
 
-[ ] Learn creating professional discord servers (specially for studying)
+- [ ] Learn creating professional discord servers (specially for studying)
