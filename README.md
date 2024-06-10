@@ -1,1 +1,1 @@
-# Study-discord-bot
+# study-discord-bot
